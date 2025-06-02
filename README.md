@@ -1,2 +1,2 @@
-# neetpiqlab.github.io
-NeetpiqLab main site
+# theneetpiqlab.github.io
+The Neetpiq Lab main site
