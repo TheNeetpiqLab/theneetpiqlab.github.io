@@ -22,6 +22,8 @@ social_links:
   flickr: ""
   github: "https://github.com/TheNeetpiqLab"
   instagram: "https://www.instagram.com/the_neetpiq_lab/"
+  youtube: "https://www.youtube.com/@TheNeetpiqLab"
+  bluesky: ""
   landscape: ""
   linkedin: ""
   mastodon: ""
@@ -30,9 +32,7 @@ social_links:
   slack: ""
   stackoverflow: ""
   threads: ""
-  twitter: ""
-  x: ""
-  youtube: ""
+  
 
 # Makes the header sticky on tall screens
 sticky_header: true

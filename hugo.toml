@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://neetpiq.com/'
 languageCode = 'en-us'
 title = 'The Neetpiq Lab'
 theme = 'dot-org-hugo-theme'
