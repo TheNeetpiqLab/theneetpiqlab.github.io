@@ -87,6 +87,22 @@
         }
     }
 
+    .site-title-link {
+        text-decoration: none;
+        color: var(--primary-400);
+        text-transform: uppercase;
+        font-family: var(--condensed-font-family);
+        font-weight: 700;
+        font-size: 20px;
+        @media (min-width: $min-desktop) {
+            flex-shrink: 0;
+            font-size: 22px;
+        }
+        @media (min-width: $desktop-width) {
+            font-size: 28px;
+        }
+    }
+
     .social-links {
         margin-top: 20px;
         @media (min-width: $min-desktop) {

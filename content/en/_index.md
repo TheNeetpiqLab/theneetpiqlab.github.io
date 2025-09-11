@@ -1,6 +1,6 @@
 ---
-title: Dot Org Theme Demo
-description: This is the demo site for Dot Org Theme. The title description and images front matter is required for meta og content.
+title: The Neetpiq Lab
+description: Space for experiments in the software world, between homelabs, devops and small projects with IoT with a touch of 3D printing when needed to give shape to ideas.
 showHeader: false
 ---
 

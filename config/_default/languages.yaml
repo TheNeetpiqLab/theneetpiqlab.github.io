@@ -1,11 +1,12 @@
 en:
   languageName: English
-  weight: 1
+  contentDir: content/en
+  weight: 2
   ### copyright (markdown can be used) ###
   copyright: "Copyright &copy; {{< current_year >}} The Neetpiq Lab. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
-  title: "My Site Title"
+  title: "The Neetpiq Lab"
   params:
-    description: "Site Description"
+    description: "Space for experiments in the software world, between homelabs, devops and small projects with IoT with a touch of 3D printing when needed to give shape to ideas."
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
@@ -52,12 +53,12 @@ en:
       weight: 4
 it:
   languageName: Italiano
-  contentDir: content/it
-  weight: 2
-  title: "Titolo del sito"
+  # contentDir: content/it
+  weight: 1
+  title: "The Neetpiq Lab"
   copyright: "Copyright &copy; {{< current_year >}} The Neetpiq Lab. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   params:
-    description: "Descrizione del sito"
+    description: "Spazio per esperimenti nel mondo software, tra homelab, devops e piccoli progetti con IoT con un tocco di stampa 3D quando serve a dare forma alle idee."
   menu:
     main:
     - identifier: "about"
