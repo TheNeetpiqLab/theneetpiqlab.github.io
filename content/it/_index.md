@@ -1,6 +1,6 @@
 ---
 title: The Neetpiq Lab
-description: Spazio per esperimenti nel mondo software, tra homelab, devops e piccoli progetti con IoT con un tocco di stampa 3D quando serve a dare forma alle idee.
+description: Spazio per esperimenti nel mondo software, tra homelab, devops e piccoli progetti con dispositivi IoT ed un tocco di stampa 3D quando serve a dare forma alle idee.
 showHeader: false
 ---
 

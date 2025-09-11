@@ -6,7 +6,7 @@ en:
   copyright: "Copyright &copy; {{< current_year >}} The Neetpiq Lab. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "The Neetpiq Lab"
   params:
-    description: "Space for experiments in the software world, between homelabs, devops and small projects with IoT with a touch of 3D printing when needed to give shape to ideas."
+    description: "Space for experiments in the software world, between homelabs, devops and small projects with IoT devices and a touch of 3D printing when needed to give shape to ideas."
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
@@ -58,7 +58,7 @@ it:
   title: "The Neetpiq Lab"
   copyright: "Copyright &copy; {{< current_year >}} The Neetpiq Lab. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   params:
-    description: "Spazio per esperimenti nel mondo software, tra homelab, devops e piccoli progetti con IoT con un tocco di stampa 3D quando serve a dare forma alle idee."
+    description: "Spazio per esperimenti nel mondo software, tra homelab, devops e piccoli progetti con dispositivi IoT ed un tocco di stampa 3D quando serve a dare forma alle idee."
   menu:
     main:
     - identifier: "about"
