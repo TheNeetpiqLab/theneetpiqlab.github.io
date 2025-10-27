@@ -102,6 +102,15 @@
   </script>
 {{ end }}
 
+{{/* Theme: Team */}}
+{{ if and (eq .Type "team") (eq .Kind "section") }}
+{{ $js := resources.Get "js/accordion.js" }}
+<script defer src="{{ $js.Permalink }}"></script>
+<script>
+    var stickyHeader = {{ if .Site.Params.sticky_header }}true{{ else }}false{{ end }};
+  </script>
+{{ end }}
+
 {{/* Theme: Scripts */}}
 {{ $js := resources.Get "js/scripts.js" }}
 {{ if eq (getenv "HUGO_ENV") "production" }}

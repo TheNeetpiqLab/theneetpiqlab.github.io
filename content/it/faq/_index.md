@@ -3,4 +3,6 @@ title: "FAQs"
 description: "Frequently Asked Questions"
 ---
 
-Here are some frequently asked questions.
+{{< intro >}}
+Di seguito le domande poste di frequente.
+{{< /intro >}}

@@ -1,15 +1,19 @@
 ---
 title: The Neetpiq Lab
-description: Spazio per esperimenti nel mondo software, tra homelab, devops e piccoli progetti con dispositivi IoT ed un tocco di stampa 3D quando serve a dare forma alle idee.
+description: Spazio per esperimenti nel mondo software, tra homelab, devops e piccoli progetti con dispositivi IoT
 showHeader: false
 ---
 
 {{< columns count=2 >}}
 {{< column >}}
-## A free & open source theme for Hugo
+## Spazio di Sperimentazione
 
 {{< intro >}}
-The [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) has been created for the [Hugo CMS](https://gohugo.io), and has been developed and released by the [CNCF](https://www.cncf.io), part of the [Linux Foundation](https://www.linuxfoundation.org).
+Uno spazio nel quale raccogliere le cose che mi incuriosiscono nel mondo software e in generale nel mondo della creazione di prodotti digitali.
+{{< /intro >}}
+
+{{< intro >}}
+Qui mi piacerebbe condividere esperimenti pratici a partire da un homelab alle conoscenze devops per gestirlo fino a progetti con dispositivi IoT.
 {{< /intro >}}
 
 {{< /column >}}
@@ -18,6 +22,8 @@ The [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) has been created
 {{< img src="/img/placeholder.svg" loading="eager" >}}
 {{< /column >}}
 {{< /columns >}}
+
+<!--
 
 {{< spacer 20 >}}
 
@@ -40,11 +46,19 @@ Supports multiple languages out of the box. Aims to comply with WCAG 2.1 standar
 {{< /column >}}
 {{< /columns >}}
 
+-->
+
+
+
+<!--
+
 {{< spacer 20 >}}
 
 ## Embed videos without comprimising page speed
 
 {{< youtube_enhanced id="b3ta7fOo6Mo" >}}
+
+-->
 
 {{< spacer 20 >}}
 
@@ -70,6 +84,7 @@ The built-in blog functionality comes with reusable author data file, breadcrumb
 {{< /cards >}}
 {{< spacer 20 >}}
 
+<!--
 ### Full feature list:
 
 - Modern - simple yet effective modern design
@@ -87,3 +102,5 @@ The built-in blog functionality comes with reusable author data file, breadcrumb
 - Google Analytics - Add tracking with just the account ID
 - Custom JS and CSS - Easily insert custom HTML, JS and CSS in to the theme
 - Branding - Open Graph OG content, favicons
+
+-->

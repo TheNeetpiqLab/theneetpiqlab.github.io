@@ -56,14 +56,14 @@ it:
   # contentDir: content/it
   weight: 1
   title: "The Neetpiq Lab"
-  copyright: "Copyright &copy; {{< current_year >}} The Neetpiq Lab. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  copyright: "Copyright &copy; 2003-{{< current_year >}} The Neetpiq Lab. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   params:
-    description: "Spazio per esperimenti nel mondo software, tra homelab, devops e piccoli progetti con dispositivi IoT ed un tocco di stampa 3D quando serve a dare forma alle idee."
+    description: "Spazio per esperimenti nel mondo software, tra homelab, devops e progetti con dispositivi IoT."
   menu:
     main:
-    - identifier: "about"
-      name: "Chi sono"
-      url: "/about-page/"
+    - identifier: "blog"
+      name: "Blog"
+      url: "/blog/"
       weight: 1
     - identifier: "demo-page"
       name: "Demo Page"
@@ -73,19 +73,20 @@ it:
       name: "Example Child Page"
       url: "/example-page/"
       weight: 1
-      post: "Descrizione breve della sezione"
+      post: "Pagina di esempio"
       parent: "demo-page"
     - identifier: "child-2"
-      name: "Example Child Page"
-      url: "/example-page/"
+      name: "Demo Page"
+      url: "/demo-page/"
       weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
+      post: "Pagina demo"
       parent: "demo-page"
+    - identifier: "team"
+      name: "Team"
+      url: "/team/"
+      weight: 3
     - identifier: "faq"
       name: "FAQs"
       url: "/faq/"
-      weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 2
+      weight: 4
+    
