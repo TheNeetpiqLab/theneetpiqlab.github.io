@@ -1,6 +1,6 @@
 ---
 title: "La forma di tutto - intervista a Riccardo Falcinelli"
-description: "Intervista a Riccardo Falcinelli nella quale discute del suo nuovo libro 'Filosofia del graphic design'"
+summary: "Intervista a Riccardo Falcinelli nella quale discute del suo nuovo libro 'Filosofia del graphic design'"
 date: 2022-07-29
 author: kingsor
 ---
