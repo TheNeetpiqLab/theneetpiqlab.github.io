@@ -23,13 +23,13 @@ en:
   ### example menu showing children ###
   menu:
     main:
-    - identifier: "about"
-      name: "About"
-      url: "/about-page/"
+    - identifier: "blog"
+      name: "Blog"
+      url: "/blog/"
       weight: 1
     - identifier: "demo-page"
-      name: "Demo Page"
-      url: "/demo-page/"
+      name: "Menu"
+      #url: "/demo-page/"
       weight: 2
     - identifier: "child-1"
       name: "Example Child Page"
@@ -43,14 +43,15 @@ en:
       weight: 2
       post: "Aenean commodo ligula get dolor. Aenean massa."
       parent: "demo-page"
+    - identifier: "about"
+      name: "About"
+      url: "/about-page/"
+      weight: 3
     - identifier: "faq"
       name: "FAQs"
       url: "/faq/"
-      weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
       weight: 4
+    
 it:
   languageName: Italiano
   # contentDir: content/it
@@ -66,8 +67,8 @@ it:
       url: "/blog/"
       weight: 1
     - identifier: "demo-page"
-      name: "Demo Page"
-      url: "/demo-page/"
+      name: "Menu"
+      #url: "/demo-page/"
       weight: 2
     - identifier: "child-1"
       name: "Example Child Page"
@@ -81,9 +82,9 @@ it:
       weight: 2
       post: "Pagina demo"
       parent: "demo-page"
-    - identifier: "team"
-      name: "Team"
-      url: "/team/"
+    - identifier: "about"
+      name: "Infos"
+      url: "/about-page/"
       weight: 3
     - identifier: "faq"
       name: "FAQs"
