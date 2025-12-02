@@ -6,7 +6,7 @@ author: kingsor
 categories:
 - 3D-Print
 tags:
-- advices-from-field
+- lessons-from-field
 ---
 
 Tratto da questo [reel](https://www.instagram.com/reel/DGw849pMuWk/) sul profilo Instagram di [Aly 3D Prints](https://www.instagram.com/aly3dprints/).
