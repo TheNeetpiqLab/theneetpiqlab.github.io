@@ -44,9 +44,9 @@
 .breadcrumbs + h1,
 .breadcrumbs + .h1 {
     margin-block-start: 20px;
-    margin-block-end: 50px;
+    margin-block-end: 20px;
     @media (min-width: $desktop-width) {
-        margin-block-start: 50px;
-        margin-block-end: 80px;
+        margin-block-start: 20px;
+        margin-block-end: 20px;
     }
 }
