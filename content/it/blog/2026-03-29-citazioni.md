@@ -1,6 +1,6 @@
 ---
 title: "Citazioni"
-summary: "Alcune citazioni che mi accompagnano da tempo"
+summary: "Alcune citazioni che mi sono segnato e che utilizzo come mantra da tempo"
 date: 2026-03-29
 author: kingsor
 categories:

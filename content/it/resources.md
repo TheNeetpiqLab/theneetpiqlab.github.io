@@ -61,5 +61,7 @@ Risorse utili che ho raccolto nel corso del tempo. Per ora l'organizzazione per 
     - [Matomo on GitHub](https://github.com/matomo-org/matomo)
 - [Umami](https://umami.is/) (10/02/26) - The modern analytics platform for effortless insights. Umami makes it easy to collect, analyze, and understand your website data — so you can focus on growth
     - [Source code](https://github.com/umami-software/umami)
+- [YOURLS](https://yourls.org/) (10/02/26) - The de facto standard self-hosted URL shortener
+    - [Source code on GitHub](https://github.com/YOURLS/YOURLS) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener, on your server. You'll have full control over your data, detailed stats, analytics, plugins, and more. It's free and open-source.
 
 
