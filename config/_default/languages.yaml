@@ -3,7 +3,7 @@ en:
   contentDir: content/en
   weight: 2
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} The Neetpiq Lab. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  copyright: "Copyright &copy; 2003-{{< current_year >}} The Neetpiq Lab. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "The Neetpiq Lab"
   params:
     description: "Space for experiments in the software world, between homelabs, devops and small projects with IoT devices and a touch of 3D printing when needed to give shape to ideas."
@@ -27,7 +27,7 @@ en:
       name: "Blog"
       url: "/blog/"
       weight: 1
-    - identifier: "demo-page"
+    - identifier: "the-lab"
       name: "Menu"
       #url: "/demo-page/"
       weight: 2
@@ -71,21 +71,31 @@ it:
       #url: "/demo-page/"
       weight: 2
     - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/example-page/"
+      name: "Home Lab"
+      url: "/home-lab/"
       weight: 1
-      post: "Pagina di esempio"
+      post: "Creare e gestire un homelab"
       parent: "the-lab"
     - identifier: "child-2"
+      name: "Stampa 3D"
+      url: "/stampa-3d/"
+      weight: 2
+      post: "Il mondo della stampa 3D e come usarla per dare forma alle idee"
+      parent: "the-lab"
+    - identifier: "child-3"
       name: "Demo Page"
       url: "/demo-page/"
-      weight: 2
-      post: "Pagina demo"
+      weight: 3
+      post: "Pagina di demo con tutti gli stili e gli shortcode disponibili"
       parent: "the-lab"
     - identifier: "about"
       name: "Chi sono"
       url: "/about-page/"
       weight: 3
+    - identifier: "resources"
+      name: "Risorse"
+      url: "/resources/"
+      weight: 4
     # - identifier: "faq"
     #   name: "FAQs"
     #   url: "/faq/"
