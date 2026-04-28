@@ -19,7 +19,7 @@ Qui mi piacerebbe condividere esperimenti pratici a partire da un homelab alle c
 {{< /column >}}
 {{< column >}}
 {{< spacer >}}
-{{< img src="/img/placeholder.svg" loading="eager" >}}
+{{< img src="/img/ThinkCentre-MiniPc.jpg" loading="eager" >}}
 {{< /column >}}
 {{< /columns >}}
 
