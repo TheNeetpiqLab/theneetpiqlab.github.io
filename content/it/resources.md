@@ -23,8 +23,9 @@ Risorse utili che ho raccolto nel corso del tempo. Per ora l'organizzazione per 
 ### Selfhosting
 
 - [awesome-selfhosted](https://awesome-selfhosted.net/) (10/02/26) - Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html.en) providers. SaaSS stands for Service as a Software Substitute
-    - [Sources on GitHub](https://github.com/awesome-selfhosted)
+    - [Source code on GitHub](https://github.com/awesome-selfhosted)
 - [Proxmox VE Helper-Scripts](https://community-scripts.github.io/ProxmoxVE/) (07/02/26)
+    - [Source code on GitHub](https://github.com/community-scripts/ProxmoxVE)
 
 ### Product Design
 
