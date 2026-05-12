@@ -20,3 +20,4 @@ Dalla quarta di copertina:
 
 Si parla di marketing, di cosa caratterizza un buon management in azienda, dell'importanza della cultura aziendale, di management e pubblica amministrazione, di intelligenza artificiale.
 
+ooOOoo

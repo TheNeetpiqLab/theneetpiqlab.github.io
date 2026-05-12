@@ -65,3 +65,4 @@ In sintesi, è una filosofia di vita che punta sul cambiamento individuale per o
 
 Direi che io l'ho colta nell'accezione di *"incoraggia a guardare con occhi nuovi le risorse attuali e ad affrontare le sfide con serenità"*.
 
+ooOOoo

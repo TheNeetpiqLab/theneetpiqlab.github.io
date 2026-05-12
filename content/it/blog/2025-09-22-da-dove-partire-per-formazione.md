@@ -3,6 +3,10 @@ title: "Da dove partire per fare formazione"
 summary: "Note to Self a partire da un post su LinkedIn pubblicato da Giacomo Fenzi"
 date: 2025-09-22
 author: kingsor
+categories:
+- management
+tags:
+- note-to-self
 ---
 
 [Post pubblicato](https://www.linkedin.com/posts/giacomofenzi_giacomofenzi-linkedin-formazione-activity-7375787129995550720-cvx7/) oggi da [Giacomo Fenzi](https://www.linkedin.com/in/giacomofenzi/).
@@ -80,3 +84,5 @@ Se no, meglio un diario LEARN/WORK in public che una lezione.
 Se dici “no” a 2 o più domande: forse forse, non è ancora tempo per insegnare...
 
 {{< /card >}}
+
+ooOOoo

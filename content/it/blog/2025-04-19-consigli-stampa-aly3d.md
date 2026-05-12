@@ -61,3 +61,4 @@ Anche aggiungendo altri due mesi a 30k dollari al mese non si arriva ad "1M$ in 
 
 Rimane comunque molto utile la lista dei passi consigliati per mettere in piedi un business con la stampa 3D.
 
+ooOOoo

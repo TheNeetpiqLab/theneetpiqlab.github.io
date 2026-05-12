@@ -1,22 +1,45 @@
 ---
-title: Chi Sono
-description: Chi sono
+title: Chi siamo
+description: Il team dietro a The Neetpiq Lab
 ---
 
-{{< intro >}}
-Questa è l'introduzione alla sezione Chi sono
-{{< /intro >}}
+Il sogno dietro a questo sito è quello di raggruppare persone con interessi simili ai miei. Ma per ora ci sono solo io 😄
 
-{{< toc >}}
+{{< columns count=3 >}}
 
-## Intro
+{{< column >}}
+{{< img src="/img/team-photos/edo-profile.jpg" >}}
+### Edoardo Inamo
+Sviluppatore software orientato al prodotto, amante della falegnameria, dei mini rack e dell'hardware che può essere contenuto in essi e quindi degli homelab e della stampa 3D che utilizzo per creare mini rack ma anche altro.
+{{< /column >}}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
+{{< column >}}
+{{< img src="/img/team-photos/placeholder-profile.svg" >}}
+### Nome Cognome
+Ci sono alcuni amici con i quali mi piacerebbe molto collaborare a questo sito.
+{{< /column >}}
 
-## Details
+{{< column >}}
+{{< img src="/img/team-photos/placeholder-profile.svg" >}}
+### Nome Cognome
+Ci sono alcuni amici con i quali mi piacerebbe molto collaborare a questo sito.
+{{< /column >}}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
+{{< column >}}
+{{< spacer 20 >}}
+[Personal Site](https://edoardoinamo.dev/)
+{{< /column >}}
 
-## Conclusion
+{{< column >}}
+{{< spacer 20 >}}
+[Personal Site](https://example.com/)
+{{< /column >}}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
+{{< column >}}
+{{< spacer 20 >}}
+[Personal Site](https://example.com/)
+{{< /column >}}
+
+{{< /columns >}}
+
+

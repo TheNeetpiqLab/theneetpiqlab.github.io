@@ -3,6 +3,10 @@ title: "A proposito di talento"
 summary: "Note to Self su discussione Linkedin a proposito del talento"
 date: 2025-10-21
 author: kingsor
+categories:
+- management
+tags:
+- note-to-self
 ---
 
 In una [discussione su Linkedin](https://www.linkedin.com/posts/andysal_oggi-in-una-chat-di-gruppo-segretissima-activity-7379088764200976384-QF6q) iniziata da [Andrea Saltarello](https://www.linkedin.com/in/andysal/):
@@ -28,5 +32,5 @@ e dopo vari interventi, quello di Massimo che riassume il precedente commento di
 > 
 > [Gianluca Astuti](https://www.linkedin.com/in/gianluca-astuti-54634a13/) nelle aziende americane misurano solo die metriche: skill and will. Quali sono le tue competenze e la voglia che hai di spaccare il culo ai passeri. Chi ha basso skill e basso will è da licenziare. Chi ha alto skill è basso will è da motivare. Chi ha alto will ma basso skill è da addestrare. Chi ha alto will e alto skill è da promuovere.
 
-...
+ooOOoo
 

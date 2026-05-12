@@ -44,3 +44,5 @@ by [Daniele Tartaglia](https://www.youtube.com/@danieletartagliafaidate)
 by [Power3D](https://www.youtube.com/@power_3d)
 
 Ma ovviamente YouTube me ne ha proposti tanti altri e ne ho visionati tanti e tanti altri :-)
+
+ooOOoo

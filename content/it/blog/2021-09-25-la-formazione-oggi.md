@@ -3,6 +3,10 @@ title: "Dalla scarsità all’overload: la formazione, oggi"
 summary: "Un interessante post di Gianluca Diegoli nel quale descrive la situazione attuale della formazione."
 date: 2021-09-25
 author: kingsor
+categories:
+- management
+tags:
+- note-to-self
 ---
 
 Dalla newsletter di Digital Update, un'interessante articolo di Gianluca Diegoli: [Dalla scarsità all’overload: la formazione, oggi](https://www.digitalupdate.it/blog/overload-formazione-oggi/).
@@ -48,3 +52,5 @@ Sebbene l'articolo conduca a spiegare le motivazioni per la creazione della [scu
 * creare a mia volta corsi in italiano prendendo spunto da corsi esistenti in inglese o da percorsi che ho identificato tra i corsi presenti
 
 La realizzazione di tali percorsi o di corsi in italiano basati su tali percorsi richiede sicuramente tempo, ma potrebbe essere un utile sistema di content marketing utile a me come professionista per farmi conoscere.
+
+ooOOoo
