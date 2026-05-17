@@ -129,7 +129,7 @@ Per verificare il livellamento del piatto e il comportamento dell'hotend eseguo 
 
 {{< columns count=2 >}}
 {{< column >}}
-![Stampa di test del primo layer](/img/solving-extruder-clog-on-sw-x4-plus/first-layer-calibration-02.JPG "Stampa di test del primo layer")
+![Stampa di test del primo layer](/img/solving-extruder-clog-on-sw-x4-plus/first-layer-calibration-02.jpg "Stampa di test del primo layer")
 Il risultato di 4 stampe fatte in momenti successivi, con vari aggiustamenti tra una stampa e l'altra.
 {{< /column >}}
 {{< column >}}
