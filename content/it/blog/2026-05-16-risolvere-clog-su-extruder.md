@@ -3,6 +3,7 @@ title: "Risolvere un blocco all'estrusore di una stampante 3D"
 summary: "Nello specifico, come risolvere un clog all'estrusore di una Artillery SW X4 Plus S1."
 date: 2026-05-16
 author: kingsor
+images: ["/img/topic-images/tnl-3D-print-topic.png"]
 categories:
 - 3D-Print
 tags:
