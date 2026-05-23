@@ -9,9 +9,9 @@ tags:
 - note-to-self
 ---
 
-Ieri ho riguardato la mia pagina personale relativa alle citazioni perchè vorrei integrare quelle citazioni sul sito Neetpiq ma anche sul mio personale (alcune almeno).
+Ieri ho riguardato la mia pagina personale relativa alle citazioni perchè vorrei integrare quelle citazioni su questo sito (alcune almeno).
 
-Questa è una delle citazioni:
+Questa è una delle mie citazioni preferite:
 
 
  > I'm not a great programmer,  

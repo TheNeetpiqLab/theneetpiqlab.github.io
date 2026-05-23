@@ -6,3 +6,8 @@ theme = 'dot-org-hugo-theme'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
