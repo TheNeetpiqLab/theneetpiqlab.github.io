@@ -22,5 +22,14 @@
         {{ if $authorData.company }}({{ $authorData.company }}){{ end }}
       </span>
     {{ end }}
+    <div class="blog-item__footer">
+      {{ with .Page.Params.Categories }}
+        {{ partial "taxonomy/categories.html" . }}
+      {{ end }}
+
+      {{ with .Page.Params.Tags }}
+        {{ partial "taxonomy/tags.html" . }}
+      {{ end }}
+    </div>
   </p>
 </div>
