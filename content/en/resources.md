@@ -1,21 +1,16 @@
 ---
-title: Risorse
+title: Risorse (Italiano)
 description: Descrizione della sezione Risorse
 ---
 
 
-Risorse utili che ho raccolto nel corso del tempo. Per ora l'organizzazione per argomento è un po' "alla buona". In seguito le organizzerò meglio.
+Useful resources I've collected over time. For now, they're organized by topic in a somewhat haphazard way. I'll organize them better later.
 
 {{< toc >}}
 
-## Di tutto un po'
+## A little bit of everything
 
-### Recensioni libri
-
-- [Libreria per UX/UI Designer - Sherpa Community](https://www.sherpadesign.it/libreria) (26/03/2026) - Recensioni a cura dei componenti della Sherpa Community su libri relativi a UX/UI Design.
-- [Libri di Marketing](https://libridimarketing.blog/) (02/02/26)
-
-### Newsletter interessanti
+### Newsletters
 
 - [The 3-2-1 Newsletter](https://jamesclear.com/3-2-1) by [James Clear](https://jamesclear.com/) (02/02/26) - The 3-2-1 Newsletter is one of the most popular newsletters in the world. Every Thursday, the latest issue is sent to over 3,000,000 people. Each message includes 3 short ideas from me, 2 quotes from others, and 1 question for you to ponder.
 - [C# Digest - Newsletters](https://csharpdigest.net/newsletters)
@@ -56,7 +51,7 @@ Risorse utili che ho raccolto nel corso del tempo. Per ora l'organizzazione per 
 - [OpenPrintTag](https://openprinttag.org/) - An open-source initiative by **Prusa Research** creating a single smart spool standard that works across all brands and ecosystems. This allows printers and users to read and write data directly on any spool, making 3D printing more reliable and intuitive for everyone.
 
 
-## Di supporto per un sito
+## Support for a website
 
 - [Matomo](https://matomo.org/) (10/02/26) - web analytics su cloud o on premise
     - [Matomo on GitHub](https://github.com/matomo-org/matomo)

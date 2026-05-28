@@ -28,29 +28,34 @@ en:
       url: "/blog/"
       weight: 1
     - identifier: "the-lab"
-      name: "Menu"
-      #url: "/demo-page/"
+      name: "The Lab"
       weight: 2
     - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/example-page/"
+      name: "Home Lab"
+      url: "/home-lab/"
       weight: 1
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "demo-page"
+      post: "Setting up and managing a home lab"
+      parent: "the-lab"
     - identifier: "child-2"
-      name: "Example Child Page"
-      url: "/example-page/"
+      name: "3D Printing"
+      url: "/3d-printing/"
       weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
-      parent: "demo-page"
+      post: "The world of 3D printing and how to use it to give shape to ideas"
+      parent: "the-lab"
+    - identifier: "child-3"
+      name: "Arduino & Related Topics"
+      url: "/arduino-and-co/"
+      weight: 3
+      post: "Everything about experiments with Arduino and IoT devices."
+      parent: "the-lab"
     - identifier: "about"
-      name: "About"
+      name: "About Us"
       url: "/about-page/"
       weight: 3
-    # - identifier: "faq"
-    #   name: "FAQs"
-    #   url: "/faq/"
-    #   weight: 4
+    - identifier: "resources"
+      name: "Resources"
+      url: "/resources/"
+      weight: 4
     
 it:
   languageName: Italiano

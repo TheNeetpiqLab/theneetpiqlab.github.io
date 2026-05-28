@@ -27,7 +27,7 @@ Ci sono alcuni amici con i quali mi piacerebbe molto collaborare a questo sito.
 
 {{< column >}}
 {{< spacer 20 >}}
-[Personal Site](https://edoardoinamo.dev/)
+[Personal Site](https://edoardoinamo.dev/it/)
 {{< /column >}}
 
 {{< column >}}
@@ -41,5 +41,3 @@ Ci sono alcuni amici con i quali mi piacerebbe molto collaborare a questo sito.
 {{< /column >}}
 
 {{< /columns >}}
-
-

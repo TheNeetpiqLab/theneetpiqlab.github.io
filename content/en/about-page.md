@@ -1,28 +1,50 @@
 ---
-title: About Page
-description: About me
+title: About Us
+description: The team behind The Neetpiq Lab
 ---
 
-{{< intro >}}
-This is an intro that is used as a recap of the page.
-{{< /intro >}}
 
-{{< toc >}}
+The idea behind this site is to bring together people who share my interests. But for now, it’s just me 😄
 
-## Intro
+{{< columns count=3 >}}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
+{{< column >}}
+{{< img src="/img/team-photos/edo-profile.jpg" >}}
+### Edoardo Inamo
+A product minded software engineer who loves woodworking, mini racks, and the hardware that fits inside them and, by extension, home labs and 3D printing, which I use to create mini racks and other projects.
+{{< /column >}}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
+{{< column >}}
+{{< img src="/img/team-photos/placeholder-profile.svg" >}}
+### Nome Cognome
+There are a few friends I'd really like to collaborate with on this website.
+{{< /column >}}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
+{{< column >}}
+{{< img src="/img/team-photos/placeholder-profile.svg" >}}
+### Nome Cognome
+There are a few friends I'd really like to collaborate with on this website.
+{{< /column >}}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
+{{< column >}}
+{{< spacer 20 >}}
+[Personal Site](https://edoardoinamo.dev/en/)
+{{< /column >}}
 
-## Details
+{{< column >}}
+{{< spacer 20 >}}
+[Personal Site](https://example.com/)
+{{< /column >}}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
+{{< column >}}
+{{< spacer 20 >}}
+[Personal Site](https://example.com/)
+{{< /column >}}
 
-## Conclusion
+{{< /columns >}}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
+
+
+
+
+

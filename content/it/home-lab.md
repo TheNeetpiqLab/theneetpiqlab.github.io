@@ -1,5 +1,5 @@
 ---
-title: Home Lab (Italiano)
+title: Home Lab
 description: Sezione relativa a software e hardware utilizzati per realizzare un homelab
 ---
 
@@ -30,3 +30,5 @@ Un **homelab** è un ambiente informatico domestico progettato per sperimentare,
 
 Un homelab può variare enormemente in complessità, a seconda delle esigenze e del budget di chi lo realizza.
 
+
+ooOOoo
