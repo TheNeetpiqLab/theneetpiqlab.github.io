@@ -9,17 +9,17 @@ showHeader: false
 ## Experimentation Space
 
 {{< intro >}}
-A space in which to collect the things that intrigue me in the software world and in general in the world of creating digital products.
+A space where I can collect the things that intrigue me in the world of software and, more broadly, in the world of digital product development.
 {{< /intro >}}
 
 {{< intro >}}
-Here I would like to share practical experiments starting from a homelab to devops knowledge to manage it up to projects with IoT devices.
+Here, I’d like to share practical experiments ranging from setting up a home lab and the DevOps knowledge needed to manage it, all the way to projects involving IoT devices.
 {{< /intro >}}
 
 {{< /column >}}
 {{< column >}}
 {{< spacer >}}
-{{< img src="/img/placeholder.svg" loading="eager" >}}
+{{< img src="/img/ThinkCentre-MiniPc.jpg" loading="eager" >}}
 {{< /column >}}
 {{< /columns >}}
 

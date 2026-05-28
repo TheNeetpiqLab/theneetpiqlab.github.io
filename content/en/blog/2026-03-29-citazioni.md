@@ -1,6 +1,6 @@
 ---
-title: "Citazioni"
-summary: "Alcune citazioni che mi sono segnato e che utilizzo come mantra da tempo"
+title: "Quotes"
+summary: "Here are a few quotes I’ve jotted down and have been using as mantras for some time"
 date: 2026-03-29
 author: kingsor
 categories:
