@@ -4,7 +4,9 @@ description: Descrizione della sezione Risorse
 ---
 
 
-Useful resources I've collected over time. For now, they're organized by topic in a somewhat haphazard way. I'll organize them better later.
+Useful resources I've collected over time. For now, they're organized by topic in a somewhat haphazard way.
+
+I'll organize them better later.
 
 {{< toc >}}
 

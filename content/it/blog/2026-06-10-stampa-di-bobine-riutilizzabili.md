@@ -36,13 +36,13 @@ Il filamento utilizzato è PLA della Anycubic che ho acquistato su Amazon.
 
 Dentro alla confezione della ricarica del filamento sono presenti due tag RFiD da attaccare alla bobina in modo da essere letti da una stampante Anycubic per identificare il tipo di materiale e il colore.
 
-Ovviamente il formato dei dati presenti nel tag è specifico per le stampanti Anycubic e non funziona con altre stampanti che utilizzino lo stesso sistema, tipo le Bambulab o le Creality.
+Ovviamente il formato dei dati presenti nel tag è specifico per le stampanti Anycubic e non funziona con altre stampanti che utilizzano lo stesso sistema, tipo le Bambulab o le Creality.
 
 Se il filamento verrà utilizzato con stampanti non Anycubic si può anche evitare di attaccare il tag.
 
-Io l'ho attaccato perchè utilizzerò il filamento con la mia Anycubic S1 Combo e il tag verrà letto dal dispositivo multicolore ACE Pro.
+Io l'ho attaccato perchè utilizzerò il filamento con la mia Anycubic Kobra S1 Combo e il tag verrà letto dal dispositivo multicolore ACE Pro.
 
-Ma lo utilizzerò anche sulla mia stampante Artillery SideWinder X4 Plus e in quel caso l'identificazione del tipo di filamento e del colore sarà fatta visivamente :-D
+Ma lo utilizzerò anche sulla mia stampante Artillery SideWinder X4 Plus e in quel caso l'identificazione del tipo di filamento e del colore sarà fatta visivamente 😄
 
 
 {{< columns count=3 >}}
@@ -71,7 +71,7 @@ Ma lo utilizzerò anche sulla mia stampante Artillery SideWinder X4 Plus e in qu
 ##### Bobina con filamento
 {{< /column >}}
 {{< column >}}
-![Bobina pronta per la stampa](/img/reusable-spool/Bobina-Pronta-per-la-Stampa.jpg "Bobina pronta per la stampa")
+![Bobina pronta per la stampa](/img/reusable-spool/Bobina-Pronta-per-la-stampa.jpg "Bobina pronta per la stampa")
 ##### Bobina pronta per la stampa
 {{< /column >}}
 {{< /columns >}}
