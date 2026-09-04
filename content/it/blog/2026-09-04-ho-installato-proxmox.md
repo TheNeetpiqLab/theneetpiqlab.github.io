@@ -1,7 +1,7 @@
 ---
 title: "Ho finalmente installato Proxmox VE 9.x"
 summary: "Dopo essermi lungamente documentato, ho finalmente installato Proxmox VE 9.x"
-date: 2026-09-02
+date: 2026-09-04
 author: kingsor
 categories:
 - homelab
