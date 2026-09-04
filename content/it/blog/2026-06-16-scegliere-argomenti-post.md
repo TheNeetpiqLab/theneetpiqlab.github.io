@@ -5,8 +5,8 @@ date: 2026-07-25
 author: kingsor
 categories:
 - management
-- content
 tags:
+- content-creation
 - note-to-self
 ---
 

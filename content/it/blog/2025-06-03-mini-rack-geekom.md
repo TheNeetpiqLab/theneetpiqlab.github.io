@@ -4,8 +4,9 @@ summary: Ho utilizzato un modello per Mac Mini per contenere il mio Geekom Mini 
 date: 2025-06-03
 author: kingsor
 categories:
-- management
+- 3D-Print
 tags:
+- kobra-s1
 - content-creation
 - note-to-self
 ---

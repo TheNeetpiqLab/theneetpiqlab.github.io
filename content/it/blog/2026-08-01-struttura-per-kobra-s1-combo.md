@@ -6,9 +6,9 @@ author: kingsor
 images: ["/img/topic-images/tnl-3D-print-topic.png"]
 categories:
 - 3D-Print
-- Kobra-S1
+- Lab-Legno
 tags:
-- lab-legno
+- kobra-s1
 - maker
 ---
 

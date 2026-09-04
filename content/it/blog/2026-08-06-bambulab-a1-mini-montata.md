@@ -7,7 +7,7 @@ images: ["/img/topic-images/tnl-3D-print-topic.png"]
 categories:
 - 3D-Print
 tags:
-- new-printer
+- bambulab-a1-mini
 ---
 
 Mi sarebbe piaciuto fare un video sull'unboxing della stampante, ma le prove che ho fatto non sono venute un granchè bene.
@@ -35,7 +35,7 @@ poi la stampante con ancora alcune parti dell'imballaggio:
 
 E alla fine la stampante finalmente operativa che ha completato una scatola della serie [Gridfinity](https://gridfinity.xyz/) con a fianco la stessa scatola stampata con la Anycubic Kobra S1 per confrontare la qualita di stampa.
 
-Stampa realizzata in PETG tramite Bambu Studio con la configurazione di default.
+Stampa realizzata in PETG tramite [Bambu Studio](https://bambulab.com/en/download/studio) con la configurazione di default.
 
 {{< columns count=2 >}}
 {{< column >}}

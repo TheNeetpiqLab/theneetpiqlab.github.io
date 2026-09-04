@@ -7,7 +7,7 @@ images: ["/img/topic-images/tnl-3D-print-topic.png"]
 categories:
 - 3D-Print
 tags:
-- new-printer
+- bambulab-a1-mini
 ---
 
 Ho approfittato degli sconti della settimana scorsa sul sito [Bambu Lab](https://bambulab.com/it-it) e ho acquistato una [A1 Mini](https://bambulab.com/it-it/a1-mini).

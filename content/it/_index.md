@@ -6,10 +6,10 @@ showHeader: false
 
 {{< columns count=2 >}}
 {{< column >}}
-## Spazio di Sperimentazione
+## Laboratorio di Sperimentazione
 
 {{< intro >}}
-Uno spazio nel quale raccogliere le cose che mi incuriosiscono nel mondo software e in generale nel mondo della creazione di prodotti digitali.
+Questo è uno spazio dove vengono raccolte curiosità nel mondo della creazione di prodotti digitali ma anche homelab .
 {{< /intro >}}
 
 {{< intro >}}
