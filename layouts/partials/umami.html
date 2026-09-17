@@ -1,0 +1,8 @@
+
+{{ "<!-- umami script for analytics -->" | safeHTML }}
+{{ if hugo.IsProduction }}
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="878b0efa-54c6-4c51-96ab-645c4b3bd435"></script>
+{{ else }}
+    {{ "<!-- umami script not loaded in development -->" | safeHTML }}
+{{ end }}
+{{ "<!-- /umami script for analytics -->" | safeHTML }}

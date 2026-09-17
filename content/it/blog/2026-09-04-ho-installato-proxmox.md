@@ -1,6 +1,6 @@
 ---
-title: "Ho finalmente installato Proxmox VE 9.x"
-summary: "Dopo essermi lungamente documentato, ho finalmente installato Proxmox VE 9.x"
+title: "Ho finalmente installato Proxmox VE 9.2"
+summary: "Ho finalmente installato Proxmox VE 9.2 sul mio ThinkCentre M900 Tiny. In questo post racconto com'è andata."
 date: 2026-09-04
 author: kingsor
 categories:
