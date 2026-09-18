@@ -35,7 +35,7 @@ La versione corrente è la 9.2 e la relativa ISO è disponibile [qui](https://pr
 
 {{< columns count=2 >}}
 {{< column >}}
-![Lenovo ThinkCentre M900 Tiny](/img/proxmox-9-installation/lenovo-thinkcentre-m900-tiny.jpg "Lenovo ThinkCentre M900 Tiny")
+![Lenovo ThinkCentre M900 Tiny](/img/proxmox-9-installation/lenovo-thinkcentre-m900-tiny-small.jpg "Lenovo ThinkCentre M900 Tiny")
 {{< /column >}}
 {{< column >}}
 {{< /column >}}
