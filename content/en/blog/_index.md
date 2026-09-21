@@ -1,6 +1,4 @@
 ---
 title: "Blog"
-description: ""
+description: "Last news from the lab"
 ---
-
-Welcome to our blog.

@@ -1,6 +1,4 @@
 ---
 title: "Blog"
-description: ""
+description: "Le ultime novità del laboratorio"
 ---
-
-Benvenuti in questo blog.
