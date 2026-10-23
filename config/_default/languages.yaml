@@ -1,5 +1,5 @@
 en:
-  languageName: English
+  label: English
   contentDir: content/en
   weight: 2
   ### copyright (markdown can be used) ###
@@ -58,7 +58,7 @@ en:
       weight: 4
     
 it:
-  languageName: Italiano
+  label: Italiano
   # contentDir: content/it
   weight: 1
   title: "The Neetpiq Lab"

@@ -1,3 +1,41 @@
+favicon: "/favicon.ico"
+appleTouchIcon: "/apple-touch-icon.png"
+summaryLength: 0
+articleWords: false
+backToTop: false
+viewTransitions: false
+
+# Configurazione del Layout (Opzioni: "double" o "single")
+layout:
+  listMode: "single"
+
+# Configurazione dei Colori del tema Pocket
+colorScheme:
+  toggle: true             # Switch chiaro/scuro visibile nell'header
+  default: "auto"          # Segue le impostazioni del sistema operativo
+  preset: "morandi-mist"   # Palette iniziale (es. morandi-mist, deep-sea-blue)
+  showPicker: true         # Permette all'utente di cambiare palette
+
+# Modalità Minimale testuale (Stile Bear Blog)
+minMode:
+  enabled: true
+  default: false
+
+# Impostazioni di lettura articoli
+article:
+  showListSummary: true    # Mostra l'estratto degli articoli in home
+  toc: true                # Indice dei contenuti laterale/incorporato
+  readingTime: true        # Tempo di lettura stimato
+  backlinks: true          # Mostra le citazioni ad altri articoli
+  backlinksLimit: 5
+
+# Configurazione della Ricerca Locale del tema
+search:
+  provider: "local"
+  fullText: false          # Imposta su true per cercare dentro il testo completo dell'articolo
+
+
+
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https

@@ -1,6 +1,13 @@
 ######################## default configuration ####################
+
+locale: "en"
+
 # Your theme name
-theme: "dot-org-hugo-theme"
+#theme: "dot-org-hugo-theme"
+
+theme: pocket-hugo-theme
+
+
 # Title of your website (required).
 title: "The Neetpiq Lab"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
